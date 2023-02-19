@@ -1,0 +1,124 @@
+.co {
+    border: 222px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: blue;
+    /* background-color: rgb(46, 42, 36); */
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover {
+    background-color: rgb(41, 41, 41);
+    color: blue;
+}
+
+.navbar .navbar-nav .dropdown-menu:hover {
+    display: block;
+    margin-top: 0;
+}
+
+.dropp:hover {
+    background-color: rgb(41, 41, 41);
+    color: blue;
+}
+
+.nav .contianer .collapse .navbar-nav .contianer .btn .namee:hover {
+    color: blue;
+}
+
+.namee:hover {
+    color: blue;
+}
+
+.namee {
+    color: rgb(252, 248, 243);
+    text-decoration-line: none;
+    margin: 5px;
+}
+
+#shit::after {
+
+    background-image: url("plus-lg.svg");
+    color: #61b1c2;
+    background-color: #d6ebeb;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+#shit:not(.collapsed)::after {
+
+    background-image: url("dash-lg.svg");
+
+    color: #61b1c2;
+    background-color: #d6ebeb;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#shit {
+    background-color: #f3f4f8;
+
+}
+
+.bi {
+    display: inline-block;
+    border-radius: 50px;
+    box-shadow: 0px 0px 2px #6b6b6b;
+    padding: 0.2em 0.3em;
+}
+
+#shit:active {
+    border: 0px;
+}
+
+.nav-link .active {
+    background-color: black;
+}
+
+#home-tab .active {
+    background-color: yellow;
+}
+
+.contianer-fluid .row .col-md-8 .nav .nav-item .button #home-tab {
+    color: yellow;
+}
+
+.nav-tabs .nav-link .active {
+    font-size: 40px;
+    color: blue;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: black;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: tomato;
+}
+
+.contianer-fluid .row .col-md-8 .col-sm-12 ul#myTab .nav .nav-tabs li .nav-item button#home-tab .nav-link .active {
+    color: rgb(71, 99, 255);
+}
+
+#home-tab:focus {
+    color: black;
+
+    border-bottom-style: solid;
+
+    border-bottom-color: black;
+    border-bottom: solid black 3px;
+}
+
+#profile-tab:focus {
+
+    color: black;
+
+    border-bottom-style: solid;
+
+    border-bottom-color: black;
+    border-bottom: solid black 3px;
+
+}

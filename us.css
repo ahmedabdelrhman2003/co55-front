@@ -1,0 +1,50 @@
+.co {
+    border: 222px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: blue;
+    /* background-color: rgb(46, 42, 36); */
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover {
+    background-color: rgb(41, 41, 41);
+    color: blue;
+}
+
+.navbar .navbar-nav .dropdown-menu:hover {
+    display: block;
+    margin-top: 0;
+}
+
+.dropp:hover {
+    background-color: rgb(41, 41, 41);
+    color: blue;
+}
+
+.nav .contianer .collapse .navbar-nav .contianer .btn .namee:hover {
+    color: blue;
+}
+
+.namee:hover {
+    color: blue;
+}
+
+.namee {
+    color: rgb(252, 248, 243);
+    text-decoration-line: none;
+    margin: 5px;
+}
+
+.new {
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    border: 8px solid;
+    padding: inherit;
+    margin-top: 100px;
+}
+
+.hr {
+    border-top: 1px solid #8c8b8b;
+}
